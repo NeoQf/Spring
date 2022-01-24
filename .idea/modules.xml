@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Spring.iml" filepath="$PROJECT_DIR$/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part01_springXmlCollection/day01_xmlCollections/day01_xmlCollections.iml" filepath="$PROJECT_DIR$/part01_springXmlCollection/day01_xmlCollections/day01_xmlCollections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part01_springXmlCollection/day02_springAnnotation/day02_springAnnotation.iml" filepath="$PROJECT_DIR$/part01_springXmlCollection/day02_springAnnotation/day02_springAnnotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part00_springGettingStart/part00_springGettingStart.iml" filepath="$PROJECT_DIR$/part00_springGettingStart/part00_springGettingStart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/part01_springXmlCollection/part01_springXmlCollection.iml" filepath="$PROJECT_DIR$/part01_springXmlCollection/part01_springXmlCollection.iml" />
+    </modules>
+  </component>
+</project>

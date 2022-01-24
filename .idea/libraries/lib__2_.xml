@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib (2)">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/part01_springXmlCollection/day02_springAnnotation/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/part01_springXmlCollection/day02_springAnnotation/lib" recursive="false" />
+  </library>
+</component>
